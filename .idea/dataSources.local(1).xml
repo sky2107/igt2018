@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+	<component name="dataSourceStorageLocal">
+		<data-source name="ogm-mysql/Hibernate"
+			uuid="93eb6361-1f77-413c-8091-c868c22975bb">
+			<database-info product="" version="" jdbc-version=""
+				driver-name="" driver-version="" family="MYSQL" exact-version="0.0" />
+		</data-source>
+	</component>
+</project>
